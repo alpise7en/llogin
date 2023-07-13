@@ -236,7 +236,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
     <div class="chart">
         <canvas id="barchart" width="10" height="10"></canvas>
     </div>
-    <div class="chart"></div>
+    <div class="chart">
         <canvas id="doughnut" width="10" height="10"></canvas>
     </div>
 </div>
